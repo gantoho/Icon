@@ -1,3 +1,3 @@
 # Icon
-### Url : icon.ganto.cn
-![icon](http://icon.ganto.cn/g.png)
+### Url : https://icon.ganto.cn/g.png
+![icon](https://icon.ganto.cn/g.png)
